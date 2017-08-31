@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "koop-harvey-google-fusion-tables-executor",
+    "name": "koop-harvey-google-fusion-tables",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "hcygjpsig5"
+  }
+}
