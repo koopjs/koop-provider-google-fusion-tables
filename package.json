@@ -1,7 +1,7 @@
 {
-  "name": "@koopjs/provider-google-sheets",
+  "name": "@koopjs/provider-google-fusion-tables",
   "version": "1.0.0",
-  "description": "A Google Sheets provider",
+  "description": "A Google Fusion Tables provider for koop",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -22,17 +22,18 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koopjs/koop-provider-google-sheets.git"
+    "url": "git+https://github.com/koopjs/koop-provider-google-fusion-tables.git"
   },
   "bugs": {
-    "url": "https://github.com/koopjs/koop-provider-google-sheets/issues"
+    "url": "https://github.com/koopjs/koop-provider-google-fusion-tables/issues"
   },
-  "homepage": "https://github.com/koopjs/koop-provider-google-sheets",
+  "homepage": "https://github.com/koopjs/koop-provider-google-fusion-tables",
   "keywords": [
     "koop",
     "google",
     "docs",
-    "sheets"
+    "fusion tables",
+    "provider"
   ],
   "devDependencies": {
     "standard": "^9.0.2"

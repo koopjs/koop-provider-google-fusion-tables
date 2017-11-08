@@ -32,6 +32,7 @@ FusionTables.prototype.getData = function getData (req, callback) {
     // console.log(JSON.stringify(geojson, null, 2))
     callback(null, geojson)
   })
+  .catch(e => callback(e))
 }
 
 function translate (rows, columns) {
